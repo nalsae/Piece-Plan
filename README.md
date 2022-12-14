@@ -22,9 +22,9 @@
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 
 ## 👋 프로젝트 특징
+* Vanilla JS로 CBD-SPA Library의 Diffing 알고리즘을 유사하게 구현 및 프로젝트에 적용
 * Component Based Development 방식
 * Single Page Rendering으로 동작
-* Vanilla JS로 CBD-SPA Library의 Diffing 알고리즘을 유사하게 구현 및 프로젝트에 적용
 
 ## 📝 최종 결과
 
